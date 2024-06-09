@@ -1,0 +1,16 @@
+{
+  "name": "c4ldasapistestautomation",
+  "version": "1.0.0",
+  "description": "Automated tests to all APIs from @c4ldas repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
